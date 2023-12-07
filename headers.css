@@ -83,7 +83,7 @@
   margin: 5px; /* Add some margin between images */
 }
   .Setting{
-    /*padding-left: 30px; */
+    padding-left: 30px; 
   }
 
   .cards1{
@@ -341,6 +341,10 @@ body {
 .nav-link{
   font-family:500;
 }
+
+
+
+
 
 
 
